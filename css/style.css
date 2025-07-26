@@ -1,0 +1,34 @@
+/*  BASIC SETUP/RESET  */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1.6;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* MOBILE FIRST (base styles) */
+
+
+/*  MEDIUM DEVICES  (TABLET)  */
+@media (min-width: 768px) {
+    
+}
+
+/*  LARGER DEVICES  (REGULAR DESKTOP)  */
+@media (min-width: 1024px) {
+    
+}
+
+/*  EXTRA LARGE DEVICES (WIDER DESKTOPS)  */
+@media (min-width: 1280px) {
+    
+}
